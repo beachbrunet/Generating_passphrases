@@ -12,39 +12,10 @@ alert("Let's get started with your custom password! Please use No more than 8 Ch
 
 
 var confirmLength = prompt(" How many Charectors would you like your password to be?");
-if (confirmLength <8 || > 128) {
+// x # > or < # x
+if (confirmLength  < 8 || confirmLength > 128) {
     alert("Password length must be between 8 to 128 characters. Try again");
-} if {
-// var tag = document.createElement(charectorsUsed)
-
-}
-
-
-
-
-// var = confirmLength = {
-    
-//     logLength: function () {
-//         if (confirmLength. is )
-
-
-//     }
-    
-    
-//     confirmLength ( <= 8 || length >= 128) {
-//     alert("Password length must be between 8 to 128 characters. Try again")
-//     }
-
-
-
-
-
-
-
-
-
-
-
+// } else ENTER LOOP HERE or have it just end
 
 
 
